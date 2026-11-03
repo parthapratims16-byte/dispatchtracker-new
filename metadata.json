@@ -1,0 +1,6 @@
+{
+  "name": "Hospital & CHC Dispatch Tracker (Guwahati Lab)",
+  "description": "Chain-of-custody tracking and digital proof of delivery system for District Civil Hospitals and CHCs dispatching invoices, KPI reports, bills, and samples to Guwahati central laboratory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
